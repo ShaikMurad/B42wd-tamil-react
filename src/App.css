@@ -2,6 +2,12 @@
   font-family: sans-serif;
   text-align: center;
 }
-.userColorchange {
+.user-name {
   color: crimson;
+}
+.user-pic{
+  height: 250px;
+  width: 250px;
+  object-fit: cover;
+  border-radius: 50%;
 }
